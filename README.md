@@ -20,7 +20,7 @@ Rice Paddy is a final stage of carrying out actual rice from coating. In contras
 
 1. Clone the repository and navigate to the .
 ```	
-git clone https://github.com/
+git clone https://github.com/RiceTensorflow/
 cd models/research/object_detection/
 ```
 
