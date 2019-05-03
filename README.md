@@ -20,8 +20,10 @@ Rice Paddy is a final stage of carrying out actual rice from coating. In contras
 
 1. Clone the repository and navigate to the .
 ```	
-git clone https://github.com/RiceTensorflow/
+git clone https://github.com/tensorflow/models
 cd models/research/object_detection/
+git clone https://github.com/RiceTensorflow/
+
 ```
 
 2. Download the Labeled [RicePaddy dataset](https://drive.google.com/file/d/14CWHnRow9xrbSzymdp_4SRMmkkVYh42E/view?usp=sharing).  Unzip the folder and place it in the repo, at location `path/to/above path`. 
@@ -38,7 +40,9 @@ cd models/research/object_detection/
 	
 8. Gather results from test_image folder
 
-9. You can also use this [APK_file](https://drive.google.com/file/d/1MKp6oq1Pei2c5psQapBzrNDpfOD_kUKD/view?usp=sharing). for the same.
+9.Test Model using webcam with  [Jupyter notebook](https://drive.google.com/file/d/1hvd41X2VNtmLrWolAzBQC0XHBR960TDq/view?usp=sharing).
+
+10. You can also use this [APK_file](https://drive.google.com/file/d/1MKp6oq1Pei2c5psQapBzrNDpfOD_kUKD/view?usp=sharing). for the same.
 
 
 
