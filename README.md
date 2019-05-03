@@ -1,5 +1,4 @@
 # RiceTensorflow
-# Riceanalysis
 [//]: # (Image References)
 
 [image1]: ./images/pure.jpeg "Pure"
