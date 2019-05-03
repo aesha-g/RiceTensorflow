@@ -1,0 +1,13 @@
+item {
+  id: 1
+  name: 'pure'
+}
+
+item {
+  id: 2
+  name: 'Partialimpure'
+}
+item {
+  id: 3
+  name: 'impure'
+}
