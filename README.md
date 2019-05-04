@@ -1,9 +1,9 @@
 # RiceTensorflow
 [//]: # (Image References)
 
-[image1]: ./images/pure.jpeg "Pure"
-[image2]: ./images/partial.jpeg "Partial Impure"
-[image3]: ./images/impure.jpeg "Impure"
+[image1]: ./pure.jpeg "Pure"
+[image2]: ./partial.jpeg "Partial Impure"
+[image3]: ./impure.jpeg "Impure"
 
 
 ## Project Overview
