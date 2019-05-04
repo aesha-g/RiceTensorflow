@@ -1,0 +1,26 @@
+<annotation>
+    <folder>tmp7zab9tj3</folder>
+    <filename>cjv6shjah74wg0803mds6l98o.jpeg</filename>
+    <path>/tmp/tmp7zab9tj3/cjv6shjah74wg0803mds6l98o.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pure</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>149</xmin>
+                <ymin>739</ymin>
+                <xmax>1739</xmax>
+                <ymax>2299</ymax>
+            </bndbox>
+        </object>
+    </annotation>

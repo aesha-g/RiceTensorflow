@@ -1,0 +1,26 @@
+<annotation>
+    <folder>tmpkc3j0_da</folder>
+    <filename>cjv6t8hjj7j1o09178x9ytu6r.jpeg</filename>
+    <path>/tmp/tmpkc3j0_da/cjv6t8hjj7j1o09178x9ytu6r.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>2000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Partialimpure</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>1073</xmin>
+                <ymin>371</ymin>
+                <xmax>2291</xmax>
+                <ymax>1600</ymax>
+            </bndbox>
+        </object>
+    </annotation>

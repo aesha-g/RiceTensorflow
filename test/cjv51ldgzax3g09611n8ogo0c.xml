@@ -1,0 +1,26 @@
+<annotation>
+    <folder>tmpa2vcqvfj</folder>
+    <filename>cjv51ldgzax3g09611n8ogo0c.jpeg</filename>
+    <path>/tmp/tmpa2vcqvfj/cjv51ldgzax3g09611n8ogo0c.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>2000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>impure</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>1159</xmin>
+                <ymin>285</ymin>
+                <xmax>2462</xmax>
+                <ymax>1638</ymax>
+            </bndbox>
+        </object>
+    </annotation>
