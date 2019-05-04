@@ -40,7 +40,7 @@ git clone https://github.com/RiceTensorflow/
 	
 8. Gather results from test_image folder
 
-  9.Test Model using webcam with  [Jupyter notebook](https://drive.google.com/file/d/1hvd41X2VNtmLrWolAzBQC0XHBR960TDq/view?usp=sharing).
+9.Test Model using webcam with  [Jupyter notebook](https://drive.google.com/file/d/1hvd41X2VNtmLrWolAzBQC0XHBR960TDq/view?usp=sharing).
 
 10. You can also use this [APK_file](https://drive.google.com/file/d/1MKp6oq1Pei2c5psQapBzrNDpfOD_kUKD/view?usp=sharing). for the same.
 
