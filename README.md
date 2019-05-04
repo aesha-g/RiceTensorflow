@@ -10,7 +10,7 @@
 
 Welcome to the Tensorflow Object detection! In this project, Custom Tensorflow Model can be used within mobile app to process real-time Rice Paddy's Classification using own Dataset. .  
 
-![Pure][image1]
+![Pure][image1 = 250x250]
 
 Rice Paddy is a final stage of carrying out actual rice from coating. In contrast to conventional agriculture, it is difficult to check the quality of rice using rice paddy.Tensorflow overcomes problems of accurate classification. While this enables the efficient way of classification in three different categories as Pure, partial Impure and Impure.
 
