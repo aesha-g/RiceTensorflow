@@ -1,5 +1,5 @@
 # RiceTensorflow
-[//]: # (Image References)
+
 
 [image1]: pure.jpeg "Pure"
 [image2]: partial.jpeg "Partial Impure"
