@@ -1,16 +1,16 @@
 # RiceTensorflow
 [//]: # (Image References)
 
-[image1]: ./pure.jpeg "Pure"
-[image2]: ./partial.jpeg "Partial Impure"
-[image3]: ./impure.jpeg "Impure"
+[image1]: pure.jpeg "Pure"
+[image2]: partial.jpeg "Partial Impure"
+[image3]: impure.jpeg "Impure"
 
 
 ## Project Overview
 
 Welcome to the Tensorflow Object detection! In this project, Custom Tensorflow Model can be used within mobile app to process real-time Rice Paddy's Classification using own Dataset. .  
 
-![Sample Output][image1]
+![PURE][image1]
 
 Rice Paddy is a final stage of carrying out actual rice from coating. In contrast to conventional agriculture, it is difficult to check the quality of rice using rice paddy.Tensorflow overcomes problems of accurate classification. While this enables the efficient way of classification in three different categories as Pure, partial Impure and Impure.
 
