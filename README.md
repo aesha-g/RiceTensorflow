@@ -43,7 +43,10 @@ git clone https://github.com/RiceTensorflow/
 9. You can also use this [APK_file](https://drive.google.com/file/d/1MKp6oq1Pei2c5psQapBzrNDpfOD_kUKD/view?usp=sharing). for the same or you can test model using webcam with  [Jupyter notebook](https://drive.google.com/file/d/1hvd41X2VNtmLrWolAzBQC0XHBR960TDq/view?usp=sharing).
 
 10. Some other outputs
+
+
 ![Partial Impure][image2] 
+
 ![Impure][image3]
 
 
