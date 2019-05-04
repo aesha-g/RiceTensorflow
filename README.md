@@ -1,7 +1,7 @@
 # RiceTensorflow
 
 
-[image1]: (pure.jpg "Pure"){:height="300px" width="300px"}
+[image1]: (pure.jpg "Pure")
 [image2]: partial.jpg "Partial Impure"
 [image3]: impure.jpg "Impure"
 
