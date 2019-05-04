@@ -1,9 +1,9 @@
 # RiceTensorflow
 
 
-[image1]: pure.jpeg "Pure"
-[image2]: partial.jpeg "Partial Impure"
-[image3]: impure.jpeg "Impure"
+[image1]: pure.jpg "Pure"
+[image2]: partial.jpg "Partial Impure"
+[image3]: impure.jpg "Impure"
 
 
 ## Project Overview
