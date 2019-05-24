@@ -1,9 +1,9 @@
 """
 Usage:
 
-  # From Aakash Jadhav 
+  # From Aesha Ganatra
   # Do the same whatever I am doing here!
-  # Extrinsically Yours! 
+  
   # From tensorflow/models/
   # Create train data:
   python generate_tfrecord.py --csv_input=C:/tensorflow/models/research/object_detection/train/train_labels.csv  --output_path=C:/tensorflow/models/research/object_detection/train/train.record
@@ -108,4 +108,4 @@ def main(_):
 if __name__ == '__main__':
     tf.app.run()
 
-    # Extrinsically Yours! 
+    
